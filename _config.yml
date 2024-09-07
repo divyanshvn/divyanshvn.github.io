@@ -269,6 +269,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-pdf-embed
 
 # Sitemap settings
 defaults:
@@ -312,8 +313,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Nankani]
+  first_name: [Divyansh]
 
   style: apa
   locale: en

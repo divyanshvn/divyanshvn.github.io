@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /blog/
-title: Blog 
+permalink: /life_blog/
+title: My life's cents
 nav: true
 nav_order: 1
 pagination:
   enabled: true
-  collection: posts
+  collection: life_posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
