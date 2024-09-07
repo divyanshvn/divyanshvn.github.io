@@ -48,10 +48,7 @@
       "startDate": "2022-05-01",
       "endDate": "2022-07-01",
       "summary": "Developed features for Cost Governance reports using Java Spring Boot.",
-      "highlights": [
-        "Implemented share, schedule, download feature",
-        "Added Resource Group functionality to System Reports API"
-      ]
+      "highlights": ["Implemented share, schedule, download feature", "Added Resource Group functionality to System Reports API"]
     },
     {
       "name": "Silence Laboratories",
@@ -83,44 +80,25 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "keywords": [
-        "Rust",
-        "C/C++",
-        "Python",
-        "Java",
-        "Bash",
-        "SQL"
-      ]
+      "keywords": ["Rust", "C/C++", "Python", "Java", "Bash", "SQL"]
     },
     {
       "name": "Software & Tools",
-      "keywords": [
-        "Git",
-        "Linux Systems",
-        "NS-3",
-        "Lex",
-        "Yacc"
-      ]
+      "keywords": ["Git", "Linux Systems", "NS-3", "Lex", "Yacc"]
     }
   ],
   "projects": [
     {
       "name": "ZMagic @ Nutanix",
       "summary": "Decision procedure on top of ZFS to find the magic number of any file in constant runtime.",
-      "highlights": [
-        "Custom state machine for file analysis",
-        "Hackathon winner in Data Services Category"
-      ],
+      "highlights": ["Custom state machine for file analysis", "Hackathon winner in Data Services Category"],
       "startDate": "",
       "endDate": ""
-    }
-    ,{
+    },
+    {
       "name": "Protocol for Scaling Blockchains",
       "summary": "PoW blockchain protocol inspired by Prism and Bitcoin-NG with performance improvements.",
-      "highlights": [
-        "Increased throughput and reduced latency",
-        "Developed robust fork resolution system"
-      ],
+      "highlights": ["Increased throughput and reduced latency", "Developed robust fork resolution system"],
       "startDate": "",
       "endDate": ""
     },
@@ -134,12 +112,9 @@
     {
       "name": "Post Quantum Cryptography Survey",
       "summary": "In-depth analysis of FALCON digital signature algorithm.",
-      "highlights": [
-        "Implemented miniature version of FALCON"
-      ],
+      "highlights": ["Implemented miniature version of FALCON"],
       "startDate": "",
       "endDate": ""
     }
   ]
 }
-

@@ -18,7 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I am Divyansh. Welcome to my website.
 
-I will fill this up more i guess as i build stuff, but to include my interests : 
+I will fill this up more i guess as i build stuff, but to include my interests :
 
 Network and security, some OS and Database and yeah, huge on Privacy and Crypto. Basically things that lie in the performance , security and/or privacy domain.
-
