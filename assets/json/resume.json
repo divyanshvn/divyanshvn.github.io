@@ -95,6 +95,7 @@
       "startDate": "",
       "endDate": ""
     },
+
     {
       "name": "Protocol for Scaling Blockchains",
       "summary": "PoW blockchain protocol inspired by Prism and Bitcoin-NG with performance improvements.",
