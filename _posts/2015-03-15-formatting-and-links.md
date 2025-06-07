@@ -1,9 +1,9 @@
 ---
 layout: post
-title: a post with formatting and links
+title: starting the blog
 date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
+description: Half of 2025 passed
+tags: starting
 categories: sample-posts
 ---
 
