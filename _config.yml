@@ -132,10 +132,15 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: dvn # blog_name will be displayed in your blog page
+blog_name: divyanshvn # blog_name will be displayed in your blog page
 blog_description: a simple blog about my work
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
+
+
+life_blog_name: dvn # blog_name will be displayed in your blog page
+life_blog_description: cents on life and book reviews
+life_permalink: /life_blog/:year/:title/
 
 # Pagination
 pagination:
