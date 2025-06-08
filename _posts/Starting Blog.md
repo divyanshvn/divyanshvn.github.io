@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: starting the blog 
 date: 2025-06-07 23:10:40
 description: First Blog
 tags:
